@@ -1,37 +1,4 @@
-The Project Gutenberg eBook, French Ways and Their Meaning, by Edith
-Wharton
-
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions 
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at 
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-
-
-
-Title: French Ways and Their Meaning
-
-
-Author: Edith Wharton
-
-
-
-Release Date: August 28, 2018  [eBook #57786]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-
-***START OF THE PROJECT GUTENBERG EBOOK FRENCH WAYS AND THEIR MEANING***
-
-
-E-text prepared by Mary Glenn Krause, Martin Pettit, and the Online
-Distributed Proofreading Team (http://www.pgdp.net) from page images
-generously made available by Internet Archive (https://archive.org)
+*** START OF THE PROJECT GUTENBERG EBOOK 57786 ***
 
 
 
@@ -140,7 +107,7 @@ Yet they are too convenient as symbols to be abandoned, and are safe
 enough if, for instance, they are used simply as a loose way of drawing
 a line between the peoples who drink spirits and those who drink wine,
 between those whose social polity dates from the Forum, and those who
-still feel and legislate in terms of the primÊval forest.
+still feel and legislate in terms of the prim√¶val forest.
 
 This use of the terms is the more justifiable because one may safely
 say that most things in a man's view of life depend on how many thousand
@@ -161,7 +128,7 @@ French intelligence. Sooner than any other race the French have got rid
 of bogies, have "cleared the mind of shams," and gone up to the Medusa
 and the Sphinx with a cool eye and a penetrating question.
 
-It is an immense advantage to have the primÊval forest as far behind one
+It is an immense advantage to have the prim√¶val forest as far behind one
 as these clear-headed children of the Roman forum and the Greek
 amphitheatre; and even if they have lost something of the sensation
 "felt in the blood and felt along the heart" with which our obscurer
@@ -180,7 +147,7 @@ to interpret French ways and their meaning is to see how this long
 inheritance may benefit a people which is still, intellectually and
 artistically, in search of itself.
 
-HY»RES, FEBRUARY, 1919.
+HY√àRES, FEBRUARY, 1919.
 
 
 
@@ -315,7 +282,7 @@ poet and a good plumber may conceivably make better fighters than
 inferior representatives of arts less remote from war. Therefore, to
 judge France fairly to-day, the newcomer must perpetually remind himself
 that almost all that is best in France is in the trenches, and not in
-the hotels, cafÈs and "movie-shows" he is likely to frequent. I have no
+the hotels, caf√©s and "movie-shows" he is likely to frequent. I have no
 fear of what the American will think of the Frenchman after the two have
 fraternized at the front.
 
@@ -373,7 +340,7 @@ countries: post-office and railway officials, customs officers,
 policemen, telephone-girls, and the other natural enemies of mankind.
 And I was the more surprised because, in former days, I had so often
 suffered from the senseless bullying of the old-fashioned German
-employÈ, and because I had heard from Germans that state paternalism had
+employ√©, and because I had heard from Germans that state paternalism had
 become greatly aggravated, and that, wherever one went, petty
 regulations were enforced by inexorable officials.
 
@@ -561,7 +528,7 @@ The prejudice is all the queerer because the thrifty, food-loving
 French peasant has discovered the innocuousness of so many
 dangerous-looking funguses that frighten the Anglo-Saxon by their close
 resemblance to the poisonous members of the family. It takes a practised
-eye to distinguish cËpes and morilles from the deadly toadstool; whereas
+eye to distinguish c√®pes and morilles from the deadly toadstool; whereas
 the blackberry resembles nothing in the world but its own luscious and
 innocent self. Yet the blackberry has been condemned untried because of
 some ancient taboo that the French peasant dares not disregard.
@@ -572,7 +539,7 @@ race.
 
 Take, for instance, the question of dinner-giving. Dining is a solemn
 rite to the French, because it offers the double opportunity of good
-eating and good talk, the two forms of Êsthetic enjoyment most generally
+eating and good talk, the two forms of √¶sthetic enjoyment most generally
 appreciated. Everything connected with dinner-giving has an almost
 sacramental importance in France. The quality of the cooking comes
 first; but, once this is assured, the hostess' chief concern is that the
@@ -600,7 +567,7 @@ had been formulating the rules of French conversation.
 
 In circles where interesting and entertaining men are habitually present
 the women are not expected to talk much. They are not, of course, to sit
-stupidly silent, responsiveness is their _rÙle_, and they must know how
+stupidly silent, responsiveness is their _r√¥le_, and they must know how
 to guide the conversation by putting the right question or making the
 right comment. But above all they are not to air their views in the
 presence of men worth listening to. The French care passionately for
@@ -658,12 +625,12 @@ imperceptible differences between the lower degrees of the immense
 professional and governmental hierarchy.
 
 But again--there it is. A hostess whose papa helped to blow up the
-Tuileries or pull down the VendÙme column weighs the relative claims of
+Tuileries or pull down the Vend√¥me column weighs the relative claims of
 two Academicians (always a bad stumbling block) as carefully as a
-duchess of the old rÈgime, brought up to believe in the divine right of
+duchess of the old r√©gime, brought up to believe in the divine right of
 Kings, scrutinises the genealogy of her guests before seating them. And
 this strict observance of rules is not due to snobbishness; the French
-are not a snobbish people. It is part of _les biensÈances_, of the
+are not a snobbish people. It is part of _les biens√©ances_, of the
 always-have-beens; and there is a big bullying taboo in the way of
 changing it.
 
@@ -682,7 +649,7 @@ text of a homily on "Reverence." Why not have substituted as a title
 
 Well--"Prejudice" and "Reverence," oftener than one thinks, are
 overlapping terms, and it seems fairer to choose the one of the two that
-is not what the French call "pÈjorative." As for "Stupidity"--it must be
+is not what the French call "p√©jorative." As for "Stupidity"--it must be
 remembered that the French peasant thinks it incredibly stupid of us not
 instantly to distinguish a mushroom from a toadstool, or any of the
 intermediate forms of edible funguses from their death-dealing cousins!
@@ -714,7 +681,7 @@ qualities.
 "Reverence" may be the wasteful fear of an old taboo; but it is also
 the sense of the preciousness of long accumulations of experience. The
 quintessential is precious because whatever survives the close filtering
-of time is likely to answer to some deep racial need, moral or Êsthetic.
+of time is likely to answer to some deep racial need, moral or √¶sthetic.
 It is stupid to deprive one's self of blackberries for a reason one has
 forgotten; but what should we say of a people who had torn down their
 cathedrals when they ceased to feel the beauty of Gothic architecture,
@@ -755,7 +722,7 @@ may be said that from the start she has had, as Goethe puts it, to
 Again and again, in the past, she has seen her territory invaded, her
 monuments destroyed, her institutions shattered; the ground on which the
 future of the world is now being fought for is literally the same as
-that Catalaunian plain (the "Camp de Ch‚lons") on which Attila tried to
+that Catalaunian plain (the "Camp de Ch√¢lons") on which Attila tried to
 strangle France over fourteen hundred years ago. "In the year 450 all
 Gaul was filled with terror; for the dreaded Attila, with a host of
 strange figures, Huns, Tartars, Teutons, head of an empire of true
@@ -875,7 +842,7 @@ The artistic integrity of the French has led them to feel from the
 beginning that there is no difference in kind between the curve of a
 woman's hat-brim and the curve of a Rodin marble, or between the droop
 of an upholsterer's curtain and that of the branches along a great
-avenue laid out by Le NÙtre.
+avenue laid out by Le N√¥tre.
 
 It was the Puritan races--every one of them non-creative in the plastic
 arts--who decided that "Art" (that is, plastic art) was something apart
@@ -927,7 +894,7 @@ to be in a straitjacket or a padded cell--then the sculptor has failed,
 and taste is offended. It is essential that there should be perfect
 harmony between the natural attitude of the figure and the space it
 lives in--that a square saint should not be put in a round hole. Range
-through plastic art, from ChaldÊa to France, and you will see how this
+through plastic art, from Chald√¶a to France, and you will see how this
 principle of adaptation has always ruled composition.
 
 
@@ -976,7 +943,7 @@ bay was there.
 
 Taste, also--the recognition of a standard--explains the existence of
 such really national institutions as the French Academy, and the French
-national theatre, the ThÈ‚tre FranÁais. The history of the former, in
+national theatre, the Th√©√¢tre Fran√ßais. The history of the former, in
 particular, throws a light on much that is most distinctively French in
 the French character.
 
@@ -989,7 +956,7 @@ l'Auxerrois.
 
 That building, all elegance, measure and balance, from its graceful
 cupola to the stately stone vases surmounting the lateral
-colonnades--that building is the old "CollËge des Quatre Nations," the
+colonnades--that building is the old "Coll√®ge des Quatre Nations," the
 Institute of France, and the home of the French Academy.
 
 In 1635, at a time when France was still struggling with the heavy
@@ -1036,7 +1003,7 @@ they have always respected it, and aspired to the distinction of
 membership. Even the rebellious spirits who satirise it in their youth
 usually become, in maturity, almost too eager for its recognition; and,
 though the fact of being an Academician gives social importance, it
-would be absurd to pretend that such men as Pasteur, Henri PoincarÈ,
+would be absurd to pretend that such men as Pasteur, Henri Poincar√©,
 Marshal Joffre, sought the distinction for that reason, or that France
 would have thought it worthy of their seeking if the institution had not
 preserved its original significance.
@@ -1243,7 +1210,7 @@ over everything that tastes good, looks beautiful, or appeals to any one
 of their acute and highly-trained five senses. But they do this with no
 sense of greediness or shame or immodesty, and consequently without
 morbidness or waste of time. They take the normal pleasures, physical
-and Êsthetic, "in their stride," so to speak, as wholesome, nourishing,
+and √¶sthetic, "in their stride," so to speak, as wholesome, nourishing,
 and necessary for the background of a laborious life of business or
 study, and not as subjects for nasty prying or morbid self-examination.
 
@@ -1359,12 +1326,12 @@ continually led to overlook the differences and see the resemblances
 between the two countries. They will notice, for instance, that the same
 kind of people who pack the music-halls and "movie-shows" at home also
 pack them in France. But if they will take a seat at the one of the
-French national theatres (the _ThÈ‚tre FranÁais_ or the _OdÈon_) they
+French national theatres (the _Th√©√¢tre Fran√ßais_ or the _Od√©on_) they
 will see people of the same level of education as those of the
 cinema-halls enjoying with keen discrimination a tragedy by Racine or a
 drama of Victor Hugo's. In America the "movie" and music-hall audiences
 require no higher form of nourishment. In France they do, and the
-Thursday matinÈes in theatres which give the classic drama are as packed
+Thursday matin√©es in theatres which give the classic drama are as packed
 as the house where "The Mysteries of New York" are unrolled, while on
 the occasion of the free performances given on national holidays in
 these theatres a line composed of working-people, poor students and all
@@ -1529,12 +1496,12 @@ of reindeer in perspective, with horns gradually diminishing in size.
 It is only twenty years ago that the first cavern decorated with
 prehistoric paintings was discovered at Altamira, in north-western
 Spain. Its discoverer was regarded with suspicion and contempt by the
-archÊologists of the period: they let him see that they thought him an
+arch√¶ologists of the period: they let him see that they thought him an
 impostor and he died without having been able to convince the learned
 world that he had not had a hand in decorating the roof of the cave of
 Altamira with its wonderful troops of inter-glacial animals. But ten or
 twelve years later the discovery of similar painted caves in all
-directions north and south of the Pyrenees at last vindicated SeÒor
+directions north and south of the Pyrenees at last vindicated Se√±or
 Sautola's sincerity, and set the students of civilisation hastily
 revising their chronologies; and since then proofs of the consummate
 skill of these men of the dawn have been found on the walls of caves and
@@ -1737,9 +1704,9 @@ breed discourtesy on the other.
 No one knows more than the French about good manners: manners are
 codified in France, and there is the possibility of an insult in the
 least deviation from established procedure, such as using the wrong turn
-in signing a note, as, for example, putting "AgrÈez, Monsieur" where
-"Veuillez agrÈer, Monsieur" is in order, or substituting "sentiments
-distinguÈs" for "haute considÈration." Unfortunately, in the process,
+in signing a note, as, for example, putting "Agr√©ez, Monsieur" where
+"Veuillez agr√©er, Monsieur" is in order, or substituting "sentiments
+distingu√©s" for "haute consid√©ration." Unfortunately, in the process,
 the forms of courtesy have turned into the sharp-edged metallic counters
 of a game, instead of being a spontaneous emission of human kindliness.
 
@@ -2266,19 +2233,19 @@ Europe; yet the four words that preponderate in French speech and
 literature are: Glory, love, voluptuousness, and pleasure. Before the
 Puritan reflex causes the reader to fling aside the page polluted by
 this statement, it will be worth his while to translate these four words
-into _la gloire_, _l'amour_, _la voluptÈ_, _le plaisir_, and then (if he
+into _la gloire_, _l'amour_, _la volupt√©_, _le plaisir_, and then (if he
 knows French and the French well enough) consider what they mean in the
 language of Corneille and Pascal. For it must be understood that they
 have no equivalents in the English consciousness, and that, if it were
 sought to explain the fundamental difference between the exiles of the
-_Mayflower_ and the conquerors of Valmy and JÈna, it would probably best
+_Mayflower_ and the conquerors of Valmy and J√©na, it would probably best
 be illustrated by the totally different significance of "love and glory"
 and "amour et gloire."
 
 To begin with "la gloire": we must resign ourselves to the fact that we
 do not _really know_ what the French mean when they say it--what, for
 instance, Montesquieu had in mind when he wrote of Sparta: "The only
-object of the LacedÊmonians was liberty, the only advantage it gave them
+object of the Laced√¶monians was liberty, the only advantage it gave them
 was glory." At best, if we are intelligent and sympathetic enough to
 have entered a little way into the French psychology, we know that they
 mean something infinitely larger, deeper and subtler than we mean by
@@ -2438,17 +2405,17 @@ of Camorras.
 II
 
 The French are one of the most ascetic races in the world; and that is
-perhaps the reason why the meaning they give to the word "voluptÈ" is
+perhaps the reason why the meaning they give to the word "volupt√©" is
 free from the vulgarity of our "voluptuousness." The latter suggests to
-most people a cross-legged sultan in a fat seraglio; "voluptÈ" means the
+most people a cross-legged sultan in a fat seraglio; "volupt√©" means the
 intangible charm that imagination extracts from things tangible.
-"VoluptÈ" means the "Ode to the Nightingale" and the "Ode to a Grecian
+"Volupt√©" means the "Ode to the Nightingale" and the "Ode to a Grecian
 Urn;" it means Romeo and Juliet as well as Antony and Cleopatra. But if
 we have the thing, one may ask, what does the word matter? Every
 language is always losing word-values, even where the sense of the word
 survives.
 
-The answer is that the French sense of "voluptÈ" is found only
+The answer is that the French sense of "volupt√©" is found only
 exceptionally in the Anglo-Saxon imagination, whereas it is part of the
 imaginative make-up of the whole French race. One turns to Shakespeare
 or Keats to find it formulated in our speech; in France it underlies the
@@ -2559,7 +2526,7 @@ part from his own ignorance of the most elementary French forms: of the
 visitor should always, on taking leave, be conducted to the outer door,
 and a gentleman (of the old school) bidden not to remain uncovered when
 he stops to speak to a lady in the street; of the "Merci" that should
-follow every service, however slight, the "AprËs vous" which makes way,
+follow every service, however slight, the "Apr√®s vous" which makes way,
 with ceremonious insistence, for the person who happens to be entering a
 door with one. In these respects, Anglo-Saxons, by their lack of "form"
 (and their lack of perception), are perpetually giving unintentional
@@ -2718,365 +2685,4 @@ is full of her spilt glory.
 
 
 
-***END OF THE PROJECT GUTENBERG EBOOK FRENCH WAYS AND THEIR MEANING***
-
-
-******* This file should be named 57786-8.txt or 57786-8.zip *******
-
-
-This and all associated files of various formats will be found in:
-http://www.gutenberg.org/dirs/5/7/7/8/57786
-
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org 
-
-Section 3. Information about the Project Gutenberg Literary 
-Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 57786 ***
